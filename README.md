@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/github.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://coderjojo.netlify.app/">Vedant</a> currently a Third Year CSE student at <a href="http://www.viit.ac.in/">@VIIT :school: </a> and aspiring software developer:computer:. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    I'm Utkarsha currently a graduate student at <a href="https://www.iit.edu/">@IIT :school: </a> and aspiring Data Analyst. Loves to find insights from data, a machine learning enthusiast and currently learning about Artificial Intelligence. Usually I use python :bulb: and I have a love/hate relationship with Programming :neutral_face:
   </samp>
 </p>
 
