@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Heyo :wave:, 
+ 
 
 <p align="center">
-  <img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/github.gif" width=100>
+  <img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/github.gif" width=300>
   <br><br>
+  
+  
+  ## Heyo :wave:,
   <samp>
     I'm Utkarsha, currently a graduate student at <a href="https://www.iit.edu/">@IIT :school: </a> and aspiring Data Analyst. 
      <br/> 
