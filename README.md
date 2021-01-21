@@ -13,25 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-## ✉️ Find me on:
-<p align="center">
- <a href="https://UtkarshaVidhale.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/utkarshavidhale/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-<br />
-
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="RScript" height="40" style="vertical-align:top; margin:4px">
-<img src="https:https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="80" style="vertical-align:top; margin:4px">
-</p>
-
-
-
 
 ## Heyo :wave: Devs, 
 
@@ -44,12 +25,12 @@ Here are some ideas to get you started:
 </p>
 
 ### Programming Languages  :rocket:
-|<img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/python.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
+|<img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/python.png" width=60> | <img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/r.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
 |:---:|:---:|:---:|
 
 
 ### Tools :fire:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellij.png" width=60> |
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/r.png" width=60> | <img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/sql.png" width=60> |
 |:---:|:---:|:---:|
 
 ### Connect with me :smiley:
@@ -75,6 +56,7 @@ Here are some ideas to get you started:
 <img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" />
 </p>
 <br/><br/>
+   
 
 
 
