@@ -36,7 +36,10 @@ Here are some ideas to get you started:
 |<img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/python.png" width=60> | <img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/r.png" width=60> | <img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/sql.png" width=60> |
 |:---:|:---:|:---:|
 
-
+### Connect with me :smiley:
+<a href="https://www.linkedin.com/in/utkarshavidhale/">
+  <img align="left" alt="Utkarsha Vidhale Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
 
 
 
