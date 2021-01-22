@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <samp>
     I'm Utkarsha, currently a graduate student at <a href="https://www.iit.edu/">@IIT :school: </a> and aspiring Data Analyst. 
      <br/> 
-       Loves to find insights from data, a machine learning enthusiast and currently learning about Artificial Intelligence. 
+       Loves to find insights from data, a machine learning enthusiast and currently learning about <a href="https://github.com/UtkarshaVidhale/machine-learning-examples">Machine Learning</a>. 
         <br/>
     Usually I use python :bulb: and I have a love/hate relationship with Programming :neutral_face:
         
