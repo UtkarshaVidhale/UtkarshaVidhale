@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
  
 
-<p align="center">
+<!--   <p align="center">
   <img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/github.gif" width=200>
   <br><br>
+-->
   
   
   ## Heyo :wave:,
