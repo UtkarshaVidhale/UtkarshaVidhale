@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
   
   <samp>
-    I'm Utkarsha, currently a graduate student at <a href="https://www.iit.edu/">@IIT :school: </a> and aspiring Data Analyst. 
+    I'm Utkarsha, an aspiring Data Analyst. 
      <br/> 
        Loves to find insights from data, a data enthusiast and currently learning about <a href="https://github.com/UtkarshaVidhale/machine-learning-examples">Machine Learning</a>. 
         <br/>
