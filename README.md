@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
   
   <samp>
-    I'm Utkarsha, an aspiring Data Analyst. 
+    I'm Utkarsha 
      <br/> 
        Loves to find insights from data, a data enthusiast and currently learning about <a href="https://github.com/UtkarshaVidhale/machine-learning-examples">Machine Learning</a>. 
         <br/>
