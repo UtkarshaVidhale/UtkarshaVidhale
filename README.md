@@ -1,52 +1,27 @@
+# Hi, I'm Utkarsha 👋
 
+I'm a Client Success & Operations Analyst at BlackRock with a background in data analytics, strategic operations, and fintech platforms. I specialize in building tools, workflows, and dashboards that improve client support, streamline triage, and uncover actionable insights.
 
-<!--
-**UtkarshaVidhale/UtkarshaVidhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **What I work on:**
+- Streamlining client workflows and reducing triage bottlenecks
+- Building dashboards for SLA tracking and QBR insights
+- Using SQL, Excel, and BI tools to improve operations at scale
 
-Here are some ideas to get you started:
+📊 **Skills & Tools:**
+- SQL, Excel, Tableau, Power BI
+- Jira, ServiceNow, Confluence
+- Python (basic), R, Git
 
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
+📁 **Highlighted Projects:**
+- **[Compensation Forecasting – Public Sector](https://github.com/UtkarshaVidhale/Predicting-Employee-Salary-R_Script)**  
+  Regression-based salary prediction + pay equity analysis
 
-<!--   <p align="center">
-  <img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/github.gif" width=200>
-  <br><br>
--->
-  
-  
-  
-  <samp>
-    I'm Utkarsha 
-     <br/> 
-       Loves to find insights from data, a data enthusiast and currently learning about <a href="https://github.com/UtkarshaVidhale/machine-learning-examples">Machine Learning</a>. 
-        <br/>
-    
-        
-  </samp>
-</p>
+- **[Hospital Readmission Risk Model](https://github.com/UtkarshaVidhale/Diabetic-Medication-and-Patient-Re-admission-prediction)**  
+  Multilabel classification to predict diabetic patient readmissions
 
-### Programming Languages  :rocket:
-|<img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/python.png" width=60> | <img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/r.png" width=60> | <img src="https://github.com/UtkarshaVidhale/UtkarshaVidhale/blob/main/sql.png" width=60> |
-|:---:|:---:|:---:|
+- **[Client Inquiry Dashboard – Mock SaaS Project]** *(Add a new repo for this if desired)*  
+  Simulated workflow dashboard for SLA breaches, inquiry volume, and escalation patterns
 
-### Connect with me :smiley:
-<a href="https://www.linkedin.com/in/utkarshavidhale/">
-  <img align="left" alt="Utkarsha Vidhale Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-</a>
+🌱 Always learning more about fintech workflows, support analytics, and operational efficiency.
 
-
-
-   
-
-
-
-<!--   -->
-
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/uvdata/)
